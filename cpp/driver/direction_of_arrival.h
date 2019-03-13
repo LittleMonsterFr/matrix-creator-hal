@@ -52,5 +52,5 @@ class DirectionOfArrival {
   float azimutal_angle_;
   float polar_angle_;
 };
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DIRECTION_OF_ARRIVAL_H_

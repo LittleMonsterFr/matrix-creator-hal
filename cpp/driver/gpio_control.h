@@ -64,5 +64,5 @@ class GPIOControl : public MatrixDriver {
   uint16_t prescaler_;
 };
 
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_GPIO_CONTROL_H_

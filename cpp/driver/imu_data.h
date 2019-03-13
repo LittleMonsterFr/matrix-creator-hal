@@ -46,5 +46,5 @@ class IMUData {
   // Longitudinal axis (roll)
   float roll;
 };
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_IMU_DATA_H_

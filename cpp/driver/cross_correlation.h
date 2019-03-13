@@ -50,5 +50,5 @@ class CrossCorrelation {
   fftwf_plan inverse_plan_;
 };
 
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_CROSS_CORRELATION_H_

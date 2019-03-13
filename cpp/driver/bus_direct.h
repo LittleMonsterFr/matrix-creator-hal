@@ -50,5 +50,5 @@ class BusDirect : public Bus {
   uint32_t spi_speed_;
   unsigned int spi_delay_;
 };
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_BUS_DIRECT_H_

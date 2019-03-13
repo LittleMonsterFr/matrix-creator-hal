@@ -35,5 +35,5 @@ class DummySensor : public MatrixDriver {
   std::mt19937 random_engine_;
   std::uniform_real_distribution<> random_distribution_;
 };
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_DUMMY_SENSOR_H_

@@ -41,5 +41,5 @@ class BusKernel : public Bus {
  private:
   int regmap_fd_;
 };
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_BUS_KERNEL_H_

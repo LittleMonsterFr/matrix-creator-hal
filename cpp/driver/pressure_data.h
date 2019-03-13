@@ -26,5 +26,5 @@ class PressureData {
   float pressure;
   float temperature;
 };
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_PRESSURE_DATA_H_

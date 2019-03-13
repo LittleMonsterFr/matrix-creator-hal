@@ -67,5 +67,5 @@ class MatrixIOBus {
   Bus *bus_driver_;
   bool direct_nkernel_;
 };
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_WISHBONE_BUS_H_

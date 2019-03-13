@@ -26,5 +26,5 @@ class MCUData {
   uint32_t version;
 };
 
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_MCU_DATA_H_

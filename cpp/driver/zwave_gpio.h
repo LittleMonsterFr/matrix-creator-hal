@@ -49,5 +49,5 @@ class ZwaveGPIO : public MatrixDriver {
   uint16_t control_;
 };
 
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_ZWAVE_GPIO_H_

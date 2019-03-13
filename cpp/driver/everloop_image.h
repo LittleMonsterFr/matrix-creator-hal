@@ -46,5 +46,5 @@ class EverloopImage {
   std::vector<LedValue> leds;
 };
 
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_EVERLOOP_IMAGE_H_

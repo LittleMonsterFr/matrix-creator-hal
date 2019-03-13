@@ -42,5 +42,5 @@ class Bus {
   unsigned char tx_buffer_[12288];
   mutable std::mutex mutex_;
 };
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_BUS_H_

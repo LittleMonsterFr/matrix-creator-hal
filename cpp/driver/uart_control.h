@@ -33,5 +33,5 @@ class UartControl : public MatrixDriver {
   uint16_t ucr_;
 };
 
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_UART_CONTROL_H_

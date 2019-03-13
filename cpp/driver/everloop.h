@@ -29,5 +29,5 @@ class Everloop : public MatrixDriver {
   Everloop();
   bool Write(const EverloopImage *led_image);
 };
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_EVERLOOP_H_

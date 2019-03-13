@@ -39,5 +39,5 @@ const uint16_t kMemoryOffsetHumidity = 0x10;
 const uint16_t kMemoryOffsetIMU = 0x30;
 const uint16_t kMemoryOffsetMCU = 0x90;
 
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_CREATOR_MEMORY_MAP_H_

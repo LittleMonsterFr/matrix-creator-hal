@@ -81,5 +81,5 @@ class MicrophoneArray : public MatrixDriver {
   // beamforming delay and sum support
   std::valarray<CircularQueue<int16_t>> fifos_;
 };
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_MICROPHONE_ARRAY_H_

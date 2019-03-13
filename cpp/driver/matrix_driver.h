@@ -31,5 +31,5 @@ class MatrixDriver {
  protected:
   MatrixIOBus *bus_;
 };
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_MATRIX_DRIVER_H_

@@ -39,5 +39,5 @@ static float micarray_location[8][2] = {
     {48.5036755, -20.0908795}   /* M8 */
 };
 
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_MICARRAY_LOCATION_H_

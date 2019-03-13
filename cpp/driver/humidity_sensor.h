@@ -28,5 +28,5 @@ class HumiditySensor : public MatrixDriver {
  public:
   bool Read(HumidityData *data);
 };
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_HUMIDITY_SENSOR_H_

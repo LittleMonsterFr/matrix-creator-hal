@@ -58,5 +58,5 @@ class CircularQueue {
   T *fifo_;
 };
 
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_CIRCULAR_QUEUE_H_

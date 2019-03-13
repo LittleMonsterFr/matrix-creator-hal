@@ -72,5 +72,5 @@ class AudioOutput : public MatrixDriver {
   OutputSelector selector_hp_nspk_;
   uint32_t PCM_sampling_frequency_;
 };
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_AUDIO_OUTPUT_H_

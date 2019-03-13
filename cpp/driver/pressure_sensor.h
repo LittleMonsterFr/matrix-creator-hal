@@ -28,5 +28,5 @@ class PressureSensor : public MatrixDriver {
  public:
   bool Read(PressureData *data);
 };
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_PRESSURE_SENSOR_H_

@@ -28,5 +28,5 @@ class UVSensor : public MatrixDriver {
  public:
   bool Read(UVData *data);
 };
-};      // namespace matrix_hal
+}      // namespace matrix_hal
 #endif  // CPP_DRIVER_PRESSURE_SENSOR_H_
